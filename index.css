@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+}
+
+body {
+  height: 100vh;
+  background: #222;
+  color: #fff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-family: sans-serif;
+}
+
+h1 {
+  font-size: 15vmin;
+}
+
+p {
+  font-size: 5vmin;
+}
