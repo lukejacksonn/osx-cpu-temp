@@ -14,9 +14,11 @@ body {
 }
 
 h1 {
-  font-size: 15vmin;
+  font-size: 25vmin;
 }
 
 p {
-  font-size: 5vmin;
+  margin-top: 0.38rem;
+  font-size: 6vmin;
+  color: rgba(255, 255, 255, 0.6);
 }
